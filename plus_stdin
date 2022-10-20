@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2022 Rikuho Takeda s21C1074HO@s.chibakoudai.jp
 import sys
 
 ans = 0
