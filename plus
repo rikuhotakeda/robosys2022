@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # SPDX-FileCopyrightText: 2022 Rikuho Takeda s21C1074HO@s.chibakoudai.jp
+#SPDX-License-Identifier: BSD-3-Clause
 import sys
 
 ans = 0
