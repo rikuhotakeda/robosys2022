@@ -7,7 +7,7 @@ test
 * @ 2022 Rikuho Takeda
 
 # plusコマンド
-![test](https://github.com/takedarikuho/robosys2022/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/takedarikuho/robosys202x/actions/workflows/test.yml/badge.svg)
 標準入力から読み込んだ数字を足す。
 
  （ここに前ページの項目をいろいろ書く）
