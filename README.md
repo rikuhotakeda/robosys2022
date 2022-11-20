@@ -6,20 +6,20 @@
 * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 * @ 2022 Rikuho Takeda
 
-# テスト結果
+# plusコマンド
 ![test](https://github.com/rikuhotakeda/robosys202x/actions/workflows/test.yml/badge.svg)
+
 標準入力から読み込んだ数字を足す。
 
-# 使い方
-## 起動手順
+ * 使い方
 
-## ダウンロード
+ * 起動手順
 
-* インストール
+ * ダウンロード
 
-* 使い方
+ * インストール
 
-# 必要なソフトウェア
+## 必要なソフトウェア
 * Python
   * テスト済み: 3.6～3.10
 
