@@ -10,16 +10,16 @@
 ![test](https://github.com/rikuhotakeda/robosys202x/actions/workflows/test.yml/badge.svg)
 標準入力から読み込んだ数字を足す。
 
-#起動手順
+# 起動手順
 * 手順
   *
 
-#使い方
+# 使い方
 
 
-#必要なソフトウェア
+# 必要なソフトウェア
 * Python
   * テスト済み: 3.6～3.10
 
-#テスト環境
+# テスト環境
 * Ubuntu
