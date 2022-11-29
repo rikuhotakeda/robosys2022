@@ -6,7 +6,7 @@
 ## インストール方法
 コピーしたいディレクトリで、以下の操作をする。
 ```
-$git clone https://github.com/rikuhotakeda/robosys2022
+$ git clone https://github.com/rikuhotakeda/robosys2022
 ```
 
 ## 必要なソフトウェア
@@ -19,7 +19,7 @@ robosys2022のディレクトリに移動する。
 $ cd robosys2022
 ```
 
-以下のようにpulsを実行する。標準入力である./plusが、標準出力のseq 5を読み込み、15を標準出力している。  
+pulsを実行する。以下は実行例で、標準入力である./plusが、標準出力のseq 5を読み込み、15を標準出力している。  
 ```
 $ seq 5 | ./plus  
 15
