@@ -32,6 +32,5 @@ $ seq 5 | ./plus
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
 * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです。
 * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
-* このREADME.mdはインストール方法の記載に関して下記のaoi-daigujiに助言を受け、許可を得た上で参考にしています。
-* (https://github.com/aoi-daiguji/robosys2022)
+* このREADME.mdはインストール方法の記載に関して[aoi-daiguji](https://github.com/aoi-daiguji/robosys2022)に助言を受け、許可を得た上で参考にしています。
 * @ 2022 Rikuho Takeda
