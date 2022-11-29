@@ -1,4 +1,5 @@
-# plusコマンド
+#robosys2022
+## plusコマンド
 ![test](https://github.com/rikuhotakeda/robosys202x/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足す。
@@ -14,10 +15,10 @@
 ## 必要なソフトウェア
 * Python 3.7～3.10
 
-# テスト環境
+## テスト環境
 * Ubuntu
 
-# テストの結果
+## テストの結果
 
 
 ## 権利関係
