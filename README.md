@@ -5,7 +5,9 @@
 
 ## インストール方法
 コピーしたいディレクトリで、以下の操作をする。
-* git clone https://github.com/rikuhotakeda/robosys2022
+```
+git clone https://github.com/rikuhotakeda/robosys2022
+```
 
 ## 必要なソフトウェア
 * Python 3.6～3.10
